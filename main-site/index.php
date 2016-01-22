@@ -18,7 +18,7 @@
 		<div class="intro">
 			<div class="intro-sub">Carlos García</div>
 			<h1>Developer <span>Back-End</span></h1>
-			<p>I am a fully professional freelance creative User Interface Designer &amp; Developer<br> Involving with latest web designing and technologies is a great <br> feel free to contact creative.</p>
+			<p>I am a fully professional freelance creative User Interface Designer &amp; Developer<br> Involving with latest web designing and technologies is a great <br>  creative.</p>
 
       <div class="social-icons">
         <ul class="list-inline">
