@@ -17,12 +17,11 @@
 	<section id="home" class="tt-fullHeight" data-stellar-vertical-offset="50" data-stellar-background-ratio="0.2">
 		<div class="intro">
 			<div class="intro-sub">Carlos García</div>
-			<h1>Developer <span>Back-End</span></h1>
-			<p>I am a fully professional freelance creative User Interface Designer &amp; Developer<br> Involving with latest web designing and technologies is a great <br>  creative.</p>
+			<h1>Back-End <span>Developer</span></h1>
+			<p>Ingeniero en Informática, Administrador de Bases de Datos &amp; Desarrollador Web. <br> CEO de Regaze.</p>
 
       <div class="social-icons">
         <ul class="list-inline">
-          <li><a href="#"><i class="fa fa-facebook"></i></a></li>
           <li><a href="#"><i class="fa fa-twitter"></i></a></li>
           <li><a href="#"><i class="fa fa-instagram"></i></a></li>
           <li><a href="#"><i class="fa fa-github"></i></a></li>

@@ -1,6 +1,6 @@
 <section id="about" class="about-section section-padding">
       <div class="container">
-        <h2 class="section-title wow fadeInUp">Sobre Mi</h2>
+        <h2 class="section-title wow fadeInUp">Mi Perfil</h2>
 
         <div class="row">
 
@@ -22,12 +22,12 @@
 
           <div class="col-md-8 col-md-pull-4">
             <div class="short-info wow fadeInUp">
-              <h3>Objective</h3>
-              <p>An opportunity to work and upgrade oneself, as well as being involved in an organization that believes in gaining a competitive edge and giving back to the community. I'm presently expanding my solid experience in UI / UX design. I focus on using my interpersonal skills to build good user experience and create a strong interest in my employers. I hope to develop skills in motion design and my knowledge of the Web, and become an honest asset to the business. As an individual, I'm self-confident you’ll find me creative, funny and naturally passionate. I’m a forward thinker, which others may find inspiring when working as a team.</p>
+              <h3>Objetivo</h3>
+              <p>Construir oportunidades para trabajar y mejorar personalmente, además de estar involucrado en una organización que cree en la obtención de una ventaja competitiva y retribuir a la comunidad. Yo actualmente estoy expandiendo mis conocimientos en el Desarrollo de Aplicaiones y Sistemas orientados a la Web, además de fotalecer mi experiencia en la Administración de Bases de Datos. Concentro mis habilidades para construir Aplicaciones que satisfagan las necesidades de los usuarios y con fuerte interes en mis clientes.</p>
             </div>
 
             <div class="short-info wow fadeInUp">
-              <h3>What I Do ?</h3>
+              <h3>Que Hago?</h3>
               <p>I have been working as a web interface designer since. I have a love of clean, elegant styling, and I have lots of experience in the production of CSS3 and HTML5 for modern websites. I loving creating awesome as per my clients’ need. I think user experience when I try to craft something for my clients. Making a design awesome.</p>
 
               <ul class="list-check">
