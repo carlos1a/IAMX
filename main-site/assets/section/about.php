@@ -28,15 +28,15 @@
 
             <div class="short-info wow fadeInUp">
               <h3>Que Hago?</h3>
-              <p>I have been working as a web interface designer since. I have a love of clean, elegant styling, and I have lots of experience in the production of CSS3 and HTML5 for modern websites. I loving creating awesome as per my clients’ need. I think user experience when I try to craft something for my clients. Making a design awesome.</p>
+              <p>Trabajo en el desarrollo de aplicaciones web (back-end) así como en el diseño lógico de bases de datos (PostgreSQL, MySQL, MongoDB). Realizo mis trabajos con el mayor compromiso posible, enfocado en calidad, eficacia, eficiencia, sencilles, seguridad, y por supuesto en la xperiencia del usuario. Me gusta lo que hago y por eso lo hago con dedicación.</p>
 
               <ul class="list-check">
-                <li>User Experience Design</li>
-                <li>Interface Design</li>
-                <li>Product Design</li>
-                <li>Branding Design</li>
-                <li>Digital Painting</li>
-                <li>Video Editing</li>
+                <li>Desarrollo de Sistemas</li>
+                <li>Arquitectura de DB</li>
+                <li>Diseño de Interfaz</li>
+                <li>Diseño del Producto</li>
+                <li>Diseño de Marca</li>
+                <li>Experiencia de Usuario</li>
               </ul>
             </div>
 
@@ -45,8 +45,7 @@
             </div>
 
             <div class="download-button">
-              <a class="btn btn-info btn-lg" href="#contact"><i class="fa fa-paper-plane"></i>Send me message</a>
-              <a class="btn btn-primary btn-lg" href="#"><i class="fa fa-download"></i>download my cv</a>
+              <a class="btn btn-primary btn-lg" href="#"><i class="fa fa-download"></i>download mi cv</a>
             </div>
           </div>
 

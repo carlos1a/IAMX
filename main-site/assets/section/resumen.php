@@ -4,24 +4,24 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="resume-title">
-                        <h3>Education</h3>
+                        <h3>Educación</h3>
                     </div>
                     <div class="resume">
                         <ul class="timeline">
                             <li>
                                 <div class="posted-date">
-                                    <span class="month">2007-2011</span>
+                                    <span class="month">2014-2016</span>
                                 </div><!-- /posted-date -->
 
                                 <div class="timeline-panel wow fadeInUp">
                                     <div class="timeline-content">
                                         <div class="timeline-heading">
-                                            <h3>Bachelor degree certificate</h3>
-                                            <span>BA(Hons) in UI Engineering, Arts University, Pabna, USA</span>
+                                            <h3>Ingeniero en Informática</h3>
+                                            <span>Especialidad en Desarrollo de Aplicaciones. <br> Colegio Universitario de Caracas, Venezuela</span>
                                         </div><!-- /timeline-heading -->
 
                                         <div class="timeline-body">
-                                            <p>I have completed UI Engineering degree from ABC University, Boston, USA at feel the charm of existence in this spot, which was created for the.</p>
+                                            <p>Estudiando el último trimestre de la carrera, para hacerme con el titulo de Ingeniero en Informática, mención Desarrollo de Aplicaciones</p>
                                         </div><!-- /timeline-body -->
                                     </div> <!-- /timeline-content -->
                                 </div><!-- /timeline-panel -->
@@ -29,18 +29,18 @@
 
                             <li class="timeline-inverted">
                                 <div class="posted-date">
-                                    <span class="month">2004-2006</span>
+                                    <span class="month">2012-2014</span>
                                 </div><!-- /posted-date -->
 
                                 <div class="timeline-panel wow fadeInUp">
                                     <div class="timeline-content">
                                         <div class="timeline-heading">
-                                            <h3>Higher Secondary certificate</h3>
-                                            <span>Typography Arts, FA College, New York, USA</span>
+                                            <h3>TSU en Informática</h3>
+                                            <span>Desarrollo Básico de Aplicaciones Web. <br> Colegio Universitario de Caracas, Venezuela</span>
                                         </div><!-- /timeline-heading -->
 
                                         <div class="timeline-body">
-                                            <p>From this college of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend.</p>
+                                            <p>Finalizado éxitosamente, adquirendo grandes conocimientos para dar continuidad a la Ingeniería.</p>
                                         </div><!-- /timeline-body -->
                                     </div> <!-- /timeline-content -->
                                 </div> <!-- /timeline-panel -->
