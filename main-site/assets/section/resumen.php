@@ -29,6 +29,63 @@
 
                             <li class="timeline-inverted">
                                 <div class="posted-date">
+                                  <span class="month">2014</span>
+                                </div><!-- /posted-date -->
+
+                                <div class="timeline-panel wow fadeInUp">
+                                    <div class="timeline-content">
+                                        <div class="timeline-heading">
+                                            <h3>Certificado PHP</h3>
+                                            <span>Universida Central de Venezuela</span>
+                                        </div><!-- /timeline-heading -->
+
+                                        <div class="timeline-body">
+                                            <p>Certificado en PHP: Desarrollo de Aplicaciones MVC.</p>
+                                        </div><!-- /timeline-body -->
+                                    </div> <!-- /timeline-content -->
+                                </div><!-- /timeline-panel -->
+                            </li>
+
+                            <li>
+                                <div class="posted-date">
+                                  <span class="month">2014</span>
+                                </div><!-- /posted-date -->
+
+                                <div class="timeline-panel wow fadeInUp">
+                                    <div class="timeline-content">
+                                        <div class="timeline-heading">
+                                            <h3>Certificado PHP-MySQL</h3>
+                                            <span>Universida Central de Venezuela</span>
+                                        </div><!-- /timeline-heading -->
+
+                                        <div class="timeline-body">
+                                            <p>Certificado en PHP-MySQL: Tecnología para Aplicaciones.</p>
+                                        </div><!-- /timeline-body -->
+                                    </div> <!-- /timeline-content -->
+                                </div><!-- /timeline-panel -->
+                            </li>
+
+                             <li class="timeline-inverted">
+                                <div class="posted-date">
+                                  <span class="month">2013</span>
+                                </div><!-- /posted-date -->
+
+                                <div class="timeline-panel wow fadeInUp">
+                                    <div class="timeline-content">
+                                        <div class="timeline-heading">
+                                            <h3>Certificado C++</h3>
+                                            <span>Benllisoft, Caracas-Venezuela</span>
+                                        </div><!-- /timeline-heading -->
+
+                                        <div class="timeline-body">
+                                            <p>Certificado en Lenguaje de Alto Rendimiento, para desarrollo con caracteristicas de bajo nivel.</p>
+                                        </div><!-- /timeline-body -->
+                                    </div> <!-- /timeline-content -->
+                                </div><!-- /timeline-panel -->
+                            </li>
+
+                            <li>
+                                <div class="posted-date">
                                     <span class="month">2012-2014</span>
                                 </div><!-- /posted-date -->
 
@@ -46,20 +103,20 @@
                                 </div> <!-- /timeline-panel -->
                             </li>
 
-                            <li>
+                            <li class="timeline-inverted">
                                 <div class="posted-date">
-                                  <span class="month">2000-2003</span>
+                                  <span class="month">2012</span>
                                 </div><!-- /posted-date -->
 
                                 <div class="timeline-panel wow fadeInUp">
                                     <div class="timeline-content">
                                         <div class="timeline-heading">
-                                            <h3>Secondary school certificate</h3>
-                                            <span>Creative Arts, Julius Jr. school, USA</span>
+                                            <h3>Certificado en Filosofía de Software Libre</h3>
+                                            <span>Open World, Consultores Informáticos <br> Caracas-Venezuela</span>
                                         </div><!-- /timeline-heading -->
 
                                         <div class="timeline-body">
-                                            <p>I was awesome at arts, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy.</p>
+                                            <p>Estudio del Software Libre (Proyecto GNU), Libertades y Distribuciones (GNU/Linux) </p>
                                         </div><!-- /timeline-body -->
                                     </div> <!-- /timeline-content -->
                                 </div><!-- /timeline-panel -->
@@ -72,13 +129,13 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="resume-title">
-                        <h3>Experience</h3>
+                        <h3>Experiencia Laboral</h3>
                     </div>
                     <div class="resume">
                         <ul class="timeline">
                             <li class="timeline-inverted">
                                 <div class="posted-date">
-                                  <span class="month">2011-2013</span>
+                                  <span class="month">2007</span>
                                 </div><!-- /posted-date -->
 
                                 <div class="timeline-panel wow fadeInUp">
