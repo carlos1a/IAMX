@@ -1,6 +1,6 @@
 <section id="resume" class="resume-section section-padding">
         <div class="container">
-            <h2 class="section-title wow fadeInUp">Resume</h2>
+            <h2 class="section-title wow fadeInUp">Resumen</h2>
             <div class="row">
                 <div class="col-md-12">
                     <div class="resume-title">
@@ -135,18 +135,18 @@
                         <ul class="timeline">
                             <li class="timeline-inverted">
                                 <div class="posted-date">
-                                  <span class="month">2007</span>
+                                  <span class="month">2015-2016</span>
                                 </div><!-- /posted-date -->
 
                                 <div class="timeline-panel wow fadeInUp">
                                     <div class="timeline-content">
                                         <div class="timeline-heading">
-                                            <h3>Junior ui designer</h3>
-                                            <span>XYZ Design Home, One Street, Boston</span>
+                                            <h3>Desarrollador BACK-END</h3>
+                                            <span>Cantv-Movilnet</span>
                                         </div><!-- /timeline-heading -->
 
                                         <div class="timeline-body">
-                                            <p>I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend.</p>
+                                            <p>Encargado del Desarrollo del Sistema Central de Información (SCI); Para el manejo de Estadísticas y Reportes</p>
                                         </div><!-- /timeline-body -->
                                     </div> <!-- /timeline-content -->
                                 </div> <!-- /timeline-panel -->
@@ -154,22 +154,61 @@
 
                             <li>
                                 <div class="posted-date">
-                                  <span class="month">2013-2015</span>
+                                  <span class="month">2015-2016</span>
                                 </div><!-- /posted-date -->
 
                                 <div class="timeline-panel wow fadeInUp">
                                     <div class="timeline-content">
                                         <div class="timeline-heading">
-                                            <h3>Lead UX Consultant</h3>
-                                            <span>Lucky8 Designing Firm, California</span>
+                                            <h3>Desarrollador Back-end & Front-end</h3>
+                                            <span>Ministerio Para el Proceso Social de Trabajo</span>
                                         </div><!-- /timeline-heading -->
 
                                         <div class="timeline-body">
-                                            <p>Completely provide access to seamless manufactured products before functionalized synergy. Progressively redefine competitive value through.</p>
+                                            <p>Lider del Desarrollo del Sistema Central de Reportes (SICRE). Sistema encargado del inventario Tecnológico de FarmaPatria</p>
                                         </div><!-- /timeline-body -->
                                     </div> <!-- /timeline-content -->
                                 </div><!-- /timeline-panel -->
                             </li>
+
+                            <li class="timeline-inverted">
+                                <div class="posted-date">
+                                  <span class="month">2013-2014</span>
+                                </div><!-- /posted-date -->
+
+                                <div class="timeline-panel wow fadeInUp">
+                                    <div class="timeline-content">
+                                        <div class="timeline-heading">
+                                            <h3>Desarrollador Back-end & Front-end</h3>
+                                            <span>Alcaldía de Paz Castillo<br>Instituto Autónomo Municipal  de Deporte y Recreación (IAMDER)</span>
+                                        </div><!-- /timeline-heading -->
+
+                                        <div class="timeline-body">
+                                            <p>Encargado del Desarrollo del Landing Page y del Sistema de Control de Deportes y Deportistas IAMDER</p>
+                                        </div><!-- /timeline-body -->
+                                    </div> <!-- /timeline-content -->
+                                </div> <!-- /timeline-panel -->
+                            </li>
+
+                            <li>
+                                <div class="posted-date">
+                                  <span class="month">2012-2013</span>
+                                </div><!-- /posted-date -->
+
+                                <div class="timeline-panel wow fadeInUp">
+                                    <div class="timeline-content">
+                                        <div class="timeline-heading">
+                                            <h3>Desarrollador Back-end & Front-end</h3>
+                                            <span>Colegio Universitario de Caracas</span>
+                                        </div><!-- /timeline-heading -->
+
+                                        <div class="timeline-body">
+                                            <p>Encargado del Desarrollo de la Intranet para el Departamento de Informática del Colegio Universitario de Caracas</p>
+                                        </div><!-- /timeline-body -->
+                                    </div> <!-- /timeline-content -->
+                                </div><!-- /timeline-panel -->
+                            </li>
+
                         </ul>
                     </div>
                 </div>

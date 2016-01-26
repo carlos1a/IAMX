@@ -1,6 +1,6 @@
 <section id="works" class="works-section section-padding">
       <div class="container">
-        <h2 class="section-title wow fadeInUp">Works</h2>
+        <h2 class="section-title wow fadeInUp">Portafolio</h2>
 
         <ul class="list-inline" id="filter">
             <li><a class="active" data-group="all">All</a></li>
