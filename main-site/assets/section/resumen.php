@@ -36,7 +36,7 @@
                                     <div class="timeline-content">
                                         <div class="timeline-heading">
                                             <h3>Certificado PHP</h3>
-                                            <span>Universida Central de Venezuela</span>
+                                            <span>Universidad Central de Venezuela</span>
                                         </div><!-- /timeline-heading -->
 
                                         <div class="timeline-body">
@@ -55,7 +55,7 @@
                                     <div class="timeline-content">
                                         <div class="timeline-heading">
                                             <h3>Certificado PHP-MySQL</h3>
-                                            <span>Universida Central de Venezuela</span>
+                                            <span>Universidad Central de Venezuela</span>
                                         </div><!-- /timeline-heading -->
 
                                         <div class="timeline-body">
