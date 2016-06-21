@@ -15,7 +15,7 @@
                 <li><strong>Dirección:</strong> El Junquito/Urb. Los Molinos</li>
                 <li><strong>Nacionalidad:</strong> Venezolano</li>
                 <li><strong>Teléfono:</strong> (+58) 416 6054334</li>
-                <li><strong>Email:</strong> Carlosg@regaze.com.ve</li>
+                <li><strong>Email:</strong> Cg_47@hotmail.com</li>
               </ul>
             </div>
           </div> <!-- col-md-4 -->

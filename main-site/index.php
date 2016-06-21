@@ -22,10 +22,10 @@
 
       <div class="social-icons">
         <ul class="list-inline">
-          <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-          <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-          <li><a href="#"><i class="fa fa-github"></i></a></li>
-          <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
+          <li><a target="_blank" href="https://twitter.com/cargar1a"><i class="fa fa-twitter"></i></a></li>
+          <li><a target="_blank" href="https://www.instagram.com/regazeve/"><i class="fa fa-instagram"></i></a></li>
+          <li><a target="_blank" href="https://github.com/carlos1a"><i class="fa fa-github"></i></a></li>
+          <li><a target="_blank" href="https://gitlab.com/u/judandcarl"><i class="fa fa-git"></i></a></li>
         </ul>
       </div> <!-- /.social-icons -->
 		</div>
