@@ -1,6 +1,6 @@
 <section id="blog" class="latest-blog-section section-padding">
       <div class="container">
-        <h2 class="section-title wow fadeInUp">Latest Post</h2>
+        <h2 class="section-title wow fadeInUp">Últimos Trabajos</h2>
 
         <div class="row">
           <div class="col-sm-4">

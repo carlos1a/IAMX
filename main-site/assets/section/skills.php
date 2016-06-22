@@ -7,7 +7,7 @@
             <div class="skill-progress">
               <div class="skill-title"><h3>Desarrollo Back-end</h3></div>
               <div class="progress">
-                <div class="progress-bar six-sec-ease-in-out" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" ><span>90%</span>
+                <div class="progress-bar six-sec-ease-in-out" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" ><span>70%</span>
                 </div>
               </div><!-- /.progress -->
             </div><!-- /.skill-progress -->
@@ -15,7 +15,7 @@
             <div class="skill-progress">
               <div class="skill-title"><h3>Dessarrollo Front-end</h3></div>
               <div class="progress">
-                <div class="progress-bar six-sec-ease-in-out" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" ><span>75%</span>
+                <div class="progress-bar six-sec-ease-in-out" role="progressbar" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100" ><span>65%</span>
                 </div>
               </div><!-- /.progress -->
             </div><!-- /.skill-progress -->
@@ -32,14 +32,14 @@
             <div class="skill-progress">
               <div class="skill-title"><h3>Admin DB</h3></div>
               <div class="progress">
-                <div class="progress-bar six-sec-ease-in-out" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" ><span>90%</span>
+                <div class="progress-bar six-sec-ease-in-out" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" ><span>70%</span>
                 </div>
               </div><!-- /.progress -->
             </div><!-- /.skill-progress -->
             <div class="skill-progress">
               <div class="skill-title"><h3>Diseño/UX</h3></div>
               <div class="progress">
-                <div class="progress-bar six-sec-ease-in-out" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" ><span>75%</span>
+                <div class="progress-bar six-sec-ease-in-out" role="progressbar" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100" ><span>65%</span>
                 </div>
               </div><!-- /.progress -->
             </div><!-- /.skill-progress -->
@@ -86,7 +86,7 @@
               <div class="chart" data-percent="50" data-color="3498db">
                     <span class="percent"></span>
                     <div class="chart-text">
-                      <span>MongoDB</span>
+                      <span>RoR</span>
                     </div>
                 </div>
             </div>
@@ -107,15 +107,15 @@
                 </div>
             </div>
             <div class="col-xs-12 col-sm-4 col-md-2">
-              <div class="chart" data-percent="50" data-color="3498db">
+              <div class="chart" data-percent="70" data-color="3498db">
                     <span class="percent"></span>
                     <div class="chart-text">
-                      <span>Python</span>
+                      <span>MDL</span>
                     </div>
                 </div>
             </div>
             <div class="col-xs-12 col-sm-4 col-md-2">
-              <div class="chart" data-percent="50" data-color="3498db">
+              <div class="chart" data-percent="65" data-color="3498db">
                     <span class="percent"></span>
                     <div class="chart-text">
                       <span>Laravel</span>
@@ -131,10 +131,10 @@
                 </div>
             </div>
             <div class="col-xs-12 col-sm-4 col-md-2">
-              <div class="chart" data-percent="60" data-color="3498db">
+              <div class="chart" data-percent="75" data-color="3498db">
                     <span class="percent"></span>
                     <div class="chart-text">
-                      <span>Illustrator</span>
+                      <span>Git</span>
                     </div>
                 </div>
             </div>

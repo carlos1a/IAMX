@@ -4,26 +4,22 @@
           <div class="row">
             <div class="col-md-12">
               <div class="count-wrap">
-                <div class="col-sm-3 col-xs-6">
+                <div class="col-md-5 col-sm-3 col-xs-6">
                   <i class="fa fa-flask"></i>
-                  <h3 class="timer">7</h3>
-                  <p>Years of Experience</p>
+                  <h3 class="timer">3</h3>
+                  <p>Años de Experiencia</p>
                 </div>
                 <div class="col-sm-3 col-xs-6">
                   <i class="fa fa-thumbs-up"></i>
-                  <h3 class="timer">651</h3>
-                  <p>Projects Done</p>
+                  <h3 class="timer">6</h3>
+                  <p>Proyectos Realizados</p>
                 </div>
                 <div class="col-sm-3 col-xs-6">
                   <i class="fa fa-users"></i>
-                  <h3 class="timer">251</h3>
-                  <p>Happy Clients</p>
+                  <h3 class="timer">6</h3>
+                  <p>Clientes Felices</p>
                 </div>
-                <div class="col-sm-3 col-xs-6">
-                  <i class="fa fa-trophy"></i>
-                  <h3 class="timer">5</h3>
-                  <p>Awards Won</p>
-                </div>
+
               </div><!-- /count-wrap -->
             </div><!-- /.col-md-12 -->
           </div><!-- /.row -->

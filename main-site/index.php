@@ -18,7 +18,7 @@
 		<div class="intro">
 			<div class="intro-sub">Carlos García</div>
 			<h1>Back-End <span>Developer</span></h1>
-			<p>Ingeniero en Informática, Administrador de Bases de Datos &amp; Desarrollador Web. <br> CEO de Regaze.</p>
+			<p>Ingeniero en Informática, Administrador de Bases de Datos &amp; Desarrollador Web.</p>
 
       <div class="social-icons">
         <ul class="list-inline">
@@ -90,14 +90,13 @@
 
 
     <!-- Hire Section -->
-    <section class="hire-section text-center" data-stellar-vertical-offset="50" data-stellar-background-ratio="0.2">
+    <section class="hire-section2 text-center" data-stellar-vertical-offset="50" data-stellar-background-ratio="0.2">
       <div class="hire-section-bg">
         <div class="container">
           <div class="row">
             <div class="col-md-12">
-              <h2>I'm available for freelance project</h2>
-              <a href="#" class="btn btn-default">Get Hired</a>
-            </div><!-- /.col-md-12 -->
+              <h2>Estoy Disponible para Realizar Tus Proyectos</h2>
+
           </div><!-- /.row -->
         </div><!-- /.container -->
       </div><!-- /.hire-section-bg -->

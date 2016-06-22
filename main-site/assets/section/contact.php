@@ -44,8 +44,9 @@
                 <i class="fa fa-mobile"></i>
                 <div class="contact-number">
                   <strong>Números Telefónicos</strong>
-                  (+58) 212 111.11.11<br>
-                  (+58) 416 111.11.11
+                  (+58) 416 605.43.34
+                  <br>
+                  (+58) 424 197.28.20
                 </div>
               </div>
             </div>
